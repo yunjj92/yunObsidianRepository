@@ -1,3 +1,9 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "automatic-tags",
+  "editing-toolbar",
+  "obsidian-statusbar-pomo",
+  "obsidian-tasks-plugin",
+  "periodic-notes",
+  "templater-obsidian"
 ]
