@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58da2b2fee6c619f",
+        "id": "39bc3aa1e69b20d1",
         "type": "tabs",
         "children": [
           {
-            "id": "58dd90340a43a924",
+            "id": "d2064a20cec8cfae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,13 +169,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58dd90340a43a924",
+  "active": "ff6be3c9628f8943",
   "lastOpenFiles": [
-    "basics/ComputerScience.md",
-    "SUMMARY.md",
-    "basics/openapi.md",
-    "README.md",
     "getting-started/list.md",
+    "SUMMARY.md",
+    "README.md",
+    "basics/ComputerScience.md",
+    "basics/openapi.md",
     "getting-started/intro.md",
     "basics/operationSystem.md",
     "basics/network.md",
