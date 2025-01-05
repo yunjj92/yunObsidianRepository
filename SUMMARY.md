@@ -7,9 +7,8 @@
 
 ## Basics
 
-* [Editor](Computer%20Science.md)
-* [Markdown](algorithmsAndDataStructure.md)
-* [Images & media](operationSystem.md)
-* [Interactive blocks](network.md)
+* [ComputerScience](basics/ComputerScience.md)
+* [algorithmsAndDataStructure](basics/algorithmsAndDataStructure.md)
+* [operationSystem](basics/operationSystem.md)
+* [network](basics/network.md)
 * [OpenAPI](basics/openapi.md)
-* [Integrations](in_progress.md)
