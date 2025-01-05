@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39bc3aa1e69b20d1",
+        "id": "363597c13d706780",
         "type": "tabs",
         "children": [
           {
-            "id": "d2064a20cec8cfae",
+            "id": "12a336bd624e3a5f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,10 +169,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff6be3c9628f8943",
+  "active": "12a336bd624e3a5f",
   "lastOpenFiles": [
-    "getting-started/list.md",
+    "basics/algorithmsanddatastructure/1.-foundation.md",
+    "Untitled.canvas",
+    "basics/algorithmsanddatastructure/README.md",
     "SUMMARY.md",
+    "basics/algorithmsanddatastructure",
+    "getting-started/list.md",
     "README.md",
     "basics/ComputerScience.md",
     "basics/openapi.md",
