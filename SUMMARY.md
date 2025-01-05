@@ -4,14 +4,14 @@
 
 ## Getting Started
 
-* [뭐하는 사람인가...?](서론.md)
-* [Publish your docs](목차.md)
+* [뭐하는 사람인가...?](getting-started/....md)
+* [Publish your docs](getting-started/publish-your-docs.md)
 
 ## Basics
 
-* [Editor](Computer%20Science%20기초.md)
-* [Markdown](알고리즘%20및%20자료구조.md)
-* [Images & media](운영체제.md)
-* [Interactive blocks](네트워크.md)
+* [Editor](basics/editor.md)
+* [Markdown](basics/markdown.md)
+* [Images & media](basics/images-and-media.md)
+* [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
-* [Integrations](준비%20중.md)
+* [Integrations](basics/integrations.md)
