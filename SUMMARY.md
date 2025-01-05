@@ -9,9 +9,9 @@
 
 ## Basics
 
-* [Editor](Computer%20Science%20기초.md)
-* [Markdown](알고리즘%20및%20자료구조.md)
-* [Images & media](운영체제.md)
-* [Interactive blocks](네트워크.md)
+* [Editor](Computer%20Science.md)
+* [Markdown](algorithmsAndDataStructure.md)
+* [Images & media](operationSystem.md)
+* [Interactive blocks](network.md)
 * [OpenAPI](basics/openapi.md)
-* [Integrations](준비%20중.md)
+* [Integrations](in_progress.md)
