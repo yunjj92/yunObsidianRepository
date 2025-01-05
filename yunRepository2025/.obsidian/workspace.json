@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "48b8a8f188b8a09f",
+    "id": "77ebc1b0b3a94d04",
     "type": "split",
     "children": [
       {
-        "id": "bd1b527b1f3db3c4",
+        "id": "22f7cc8165c261f6",
         "type": "tabs",
         "children": [
           {
-            "id": "4fc60c228207b26c",
+            "id": "615983a447cf4bf2",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8055978306e500a1",
+    "id": "e26396e360f20f91",
     "type": "split",
     "children": [
       {
-        "id": "3c0b302cfc415c9b",
+        "id": "8624623367b33002",
         "type": "tabs",
         "children": [
           {
-            "id": "7d9bab80c54c4024",
+            "id": "954a4d09bd996e43",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "3151ed3065cc9d07",
+            "id": "5ae80aa57809855f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "2a249166a0cf7d3c",
+            "id": "8a039c7e9fc77f1f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,20 +76,20 @@
     "width": 300
   },
   "right": {
-    "id": "fdc0f089e55c2dc2",
+    "id": "499d1595893417b6",
     "type": "split",
     "children": [
       {
-        "id": "8bacf7729c03f779",
+        "id": "84f9167d89947fc4",
         "type": "tabs",
         "children": [
           {
-            "id": "0186224c7dcdf8a8",
+            "id": "974b9904f833e19e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,25 +99,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README의 백링크"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "c3a609aacebfd10c",
+            "id": "e7af66da4ade9361",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README의 나가는 링크"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "5f1c90db20cf3c3b",
+            "id": "5852a8487503db2e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,19 +130,19 @@
             }
           },
           {
-            "id": "6d6e805ddc0c76a3",
+            "id": "abac044eb7292bab",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Welcome.md"
               },
               "icon": "lucide-list",
-              "title": "README 개요"
+              "title": "Outline of Welcome"
             }
           },
           {
-            "id": "ff6be3c9628f8943",
+            "id": "ce0b4501b6161010",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,24 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff6be3c9628f8943",
+  "active": "ce0b4501b6161010",
   "lastOpenFiles": [
-    "yunRepository2025/CS 기초.md",
-    "yunRepository2025/Welcome.md",
-    "SUMMARY.md",
-    "README.md",
-    "getting-started/quickstart.md",
-    "getting-started/publish-your-docs.md",
-    "basics/openapi.md",
-    "basics/interactive-blocks.md",
-    "basics/integrations.md",
-    "basics/images-and-media.md",
-    "basics/editor.md",
-    "getting-started",
-    "basics/markdown.md",
-    "basics",
-    "yunRepository2025",
-    "LeetCode plan.md",
-    "2025 plan.md"
+    "Welcome.md",
+    "create a link.md",
+    "Untitled.canvas"
   ]
 }
