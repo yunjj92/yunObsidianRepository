@@ -10,7 +10,8 @@
 ## Basics
 
 * [ComputerScience](basics/ComputerScience.md)
-* [algorithmsAndDataStructure](basics/algorithmsAndDataStructure.md)
+* [algorithmsAndDataStructure](basics/algorithmsanddatastructure/README.md)
+  * [1. Foundation](basics/algorithmsanddatastructure/1.-foundation.md)
 * [operationSystem](basics/operationSystem.md)
 * [network](basics/network.md)
 * [OpenAPI](basics/openapi.md)
