@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c438172c01d852ae",
+        "id": "bcfd085db409834e",
         "type": "tabs",
         "children": [
           {
-            "id": "4ad85f518e41431f",
+            "id": "81c80090c309b5d9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,25 +169,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ad85f518e41431f",
+  "active": "81c80090c309b5d9",
   "lastOpenFiles": [
+    "README.md",
+    "SUMMARY.md",
+    "basics/editor.md",
+    "basics/algorithmsAndDataStructure.md",
+    "basics/Computer Science.md",
     "getting-started/list.md",
     "getting-started/publish-your-docs.md",
     "getting-started/intro.md",
     "conflict-files-obsidian-git.md",
-    "basics/algorithmsAndDataStructure.md",
     "basics/markdown.md",
     "basics/interactive-blocks.md",
     "basics/integrations.md",
     "basics/images-and-media.md",
-    "basics/editor.md",
     "basics/operationSystem.md",
     "basics/in_progress.md",
-    "basics/Computer Science.md",
     "basics/network.md",
     "basics/openapi.md",
-    "README.md",
-    "SUMMARY.md",
     "yunRepository2025/CS 기초.md",
     "yunRepository2025/Welcome.md",
     "getting-started",
