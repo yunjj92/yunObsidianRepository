@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd1b527b1f3db3c4",
+        "id": "8c21cb90b79a0f00",
         "type": "tabs",
         "children": [
           {
-            "id": "4fc60c228207b26c",
+            "id": "82dbae2ea3292a25",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -171,19 +171,19 @@
   },
   "active": "ff6be3c9628f8943",
   "lastOpenFiles": [
+    "getting-started/목차.md",
+    "basics/openapi.md",
+    "basics/Computer Science 기초.md",
+    "basics/준비 중.md",
+    "basics/운영체제.md",
+    "basics/알고리즘 및 자료구조.md",
+    "basics/네트워크.md",
+    "README.md",
+    "SUMMARY.md",
     "yunRepository2025/CS 기초.md",
     "yunRepository2025/Welcome.md",
-    "SUMMARY.md",
-    "README.md",
-    "getting-started/quickstart.md",
-    "getting-started/publish-your-docs.md",
-    "basics/openapi.md",
-    "basics/interactive-blocks.md",
-    "basics/integrations.md",
-    "basics/images-and-media.md",
-    "basics/editor.md",
+    "getting-started/서론.md",
     "getting-started",
-    "basics/markdown.md",
     "basics",
     "yunRepository2025",
     "LeetCode plan.md",
