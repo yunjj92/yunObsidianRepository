@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bd1b527b1f3db3c4",
+        "id": "8c21cb90b79a0f00",
         "type": "tabs",
         "children": [
           {
-            "id": "4fc60c228207b26c",
+            "id": "82dbae2ea3292a25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "getting-started/서론.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "서론"
+              "title": "New tab"
             }
           }
         ]
@@ -173,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fc60c228207b26c",
+  "active": "ff6be3c9628f8943",
   "lastOpenFiles": [
     "getting-started/목차.md",
     "basics/openapi.md",
