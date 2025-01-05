@@ -1,5 +1,7 @@
 # Table of contents
 
+* [README](README.md)
+
 ## Getting Started
 
 * [intro](getting-started/intro.md)
