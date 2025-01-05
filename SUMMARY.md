@@ -5,7 +5,7 @@
 ## Getting Started
 
 * [intro](getting-started/intro.md)
-* [Publish your docs](getting-started/list.md)
+* [list](getting-started/list.md)
 
 ## Basics
 
