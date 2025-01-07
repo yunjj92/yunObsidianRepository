@@ -12,7 +12,6 @@ template-type: Note
 template-version: "1.7"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
-
 # {{Title}}
 
 <!-- Main content of my thoughts really -->

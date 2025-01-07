@@ -1,7 +1,7 @@
 ---
 icon: image-landscape
 ---
-
+[[ComputerScience]]
 # 운영체제
 
 

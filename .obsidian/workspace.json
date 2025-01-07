@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "feaa50d7f10f93d6",
+        "id": "ead89cd4000f1bb9",
         "type": "tabs",
         "children": [
           {
-            "id": "22e712191e9953f5",
+            "id": "204bec0e6b76c61a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SUMMARY.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -67,6 +71,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "700fc7753da632a9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -150,6 +164,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "37e32f1cf8caecd3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -160,8 +184,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-statusbar-pomo:Start pomodoro": false,
-      "templater-obsidian:Templater": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -169,13 +191,29 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7d9bab80c54c4024",
+  "active": "204bec0e6b76c61a",
   "lastOpenFiles": [
-    "_template/_Sketchnote Template.md",
+    "getting-started/list.md",
+    "java.png",
+    "basics/programmingLanguages/README.md",
+    "basics/programmingLanguages/Java.md",
+    "basics/algorithmsanddatastructure/1.-foundation.md",
+    "basics/ComputerScience.md",
+    "README.md",
+    "SUMMARY.md",
+    "getting-started/intro.md",
     "_template/_Note Template.md",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
+    "basics/algorithmsanddatastructure/README.md",
+    "basics/programmingLanguages",
+    "basics/operationSystem.md",
+    "basics/openapi.md",
+    "basics/network.md",
+    "_template/_Sketchnote Template.md",
     "_template/Tool Template.md",
     "_template/Term Template.md",
     "_template/Table template.md",
@@ -187,19 +225,6 @@
     "_template/Outline Instagram Template.md",
     "_template/Outline E-book Template.md",
     "_template/Meeting Notes Template.md",
-    "_template/Frontmatter Template.md",
-    "_template/Frontmatter Book Template.md",
-    "_template/Front Matter Template.md",
-    "_template/Front Matter Book Template.md",
-    "_template/Expert Template.md",
-    "_template/Dataview Table Template.md",
-    "_template/cm Template.md",
-    "_template/Bullet Journal - Weekly Log.md",
-    "_template/Bullet journal - Weekly Log(timestamp).md",
-    "_template/Bullet Journal - Monthly Log.md",
-    "_template/Bullet Journal - Future Log.md",
-    "_template/Bullet Journal - Daily Log.md",
-    "_template/Book Template.md",
     "_template",
     "yunRepository2025",
     "getting-started",
