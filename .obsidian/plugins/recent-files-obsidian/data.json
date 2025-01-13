@@ -10,6 +10,10 @@
     },
     {
       "basename": "README",
+      "path": "basics/softwareEngineering/README.md"
+    },
+    {
+      "basename": "README",
       "path": "basics/algorithmsanddatastructure/README.md"
     },
     {
@@ -23,10 +27,6 @@
     {
       "basename": "ComputerScience",
       "path": "basics/ComputerScience.md"
-    },
-    {
-      "basename": "README",
-      "path": "basics/softwareEngineering/README.md"
     },
     {
       "basename": "operationSystem",
