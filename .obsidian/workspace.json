@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ead89cd4000f1bb9",
+        "id": "097738852cccbbe0",
         "type": "tabs",
         "children": [
           {
-            "id": "204bec0e6b76c61a",
+            "id": "ceb5fb9b8dcd67f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "basics/programmingLanguages/Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "Java"
             }
           }
         ]
@@ -194,23 +194,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "204bec0e6b76c61a",
+  "active": "ceb5fb9b8dcd67f8",
   "lastOpenFiles": [
-    "getting-started/list.md",
-    "java.png",
+    "basics/softwareEngineering/Regression Testing.md",
+    "basics/algorithmsanddatastructure/README.md",
+    "basics/algorithmsanddatastructure/1.-foundation.md",
     "basics/programmingLanguages/README.md",
     "basics/programmingLanguages/Java.md",
-    "basics/algorithmsanddatastructure/1.-foundation.md",
     "basics/ComputerScience.md",
+    "basics/softwareEngineering/README.md",
+    "basics/operationSystem.md",
+    "basics/softwareEngineering",
+    "basics/무제 파일.md",
     "README.md",
     "SUMMARY.md",
+    "getting-started/list.md",
+    "java.png",
     "getting-started/intro.md",
     "_template/_Note Template.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "basics/algorithmsanddatastructure/README.md",
     "basics/programmingLanguages",
-    "basics/operationSystem.md",
     "basics/openapi.md",
     "basics/network.md",
     "_template/_Sketchnote Template.md",
@@ -223,8 +227,6 @@
     "_template/Question Template.md",
     "_template/Outline LinkedIn Template.md",
     "_template/Outline Instagram Template.md",
-    "_template/Outline E-book Template.md",
-    "_template/Meeting Notes Template.md",
     "_template",
     "yunRepository2025",
     "getting-started",

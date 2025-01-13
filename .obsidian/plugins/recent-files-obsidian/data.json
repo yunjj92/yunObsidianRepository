@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Java",
+      "path": "basics/programmingLanguages/Java.md"
+    },
+    {
+      "basename": "Regression Testing",
+      "path": "basics/softwareEngineering/Regression Testing.md"
+    },
+    {
+      "basename": "README",
+      "path": "basics/algorithmsanddatastructure/README.md"
+    },
+    {
+      "basename": "1.-foundation",
+      "path": "basics/algorithmsanddatastructure/1.-foundation.md"
+    },
+    {
+      "basename": "README",
+      "path": "basics/programmingLanguages/README.md"
+    },
+    {
+      "basename": "ComputerScience",
+      "path": "basics/ComputerScience.md"
+    },
+    {
+      "basename": "README",
+      "path": "basics/softwareEngineering/README.md"
+    },
+    {
+      "basename": "operationSystem",
+      "path": "basics/operationSystem.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "SUMMARY",
       "path": "SUMMARY.md"
     },
@@ -11,26 +47,6 @@
     {
       "basename": "java",
       "path": "java.png"
-    },
-    {
-      "basename": "README",
-      "path": "basics/programmingLanguages/README.md"
-    },
-    {
-      "basename": "Java",
-      "path": "basics/programmingLanguages/Java.md"
-    },
-    {
-      "basename": "1.-foundation",
-      "path": "basics/algorithmsanddatastructure/1.-foundation.md"
-    },
-    {
-      "basename": "ComputerScience",
-      "path": "basics/ComputerScience.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "intro",
