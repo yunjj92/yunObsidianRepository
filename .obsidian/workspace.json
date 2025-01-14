@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08fe354d9aa80f4d",
+        "id": "5adbbbc0623432b0",
         "type": "tabs",
         "children": [
           {
-            "id": "b93926bffedd5da4",
+            "id": "342c363fd0f2ce51",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -189,8 +189,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b93926bffedd5da4",
+  "active": "7d9bab80c54c4024",
   "lastOpenFiles": [
+    "styles/website.css",
+    "styles/새 텍스트 문서.txt",
+    "styles",
+    "새 폴더",
+    "assets/fonts/NanumBarunGothicLight.ttf",
+    "assets/fonts/NanumBarunGothicBold.ttf",
+    "assets/fonts/NanumBarunGothic.ttf",
+    "assets/fonts/NanumBarunGothicUltraLight.ttf",
+    "assets/fonts",
+    "assets",
+    "basics/algorithmsanddatastructure/README.md",
+    "basics/algorithmsanddatastructure/1.-foundation.md",
     "basics/programmingLanguages/Java.md",
     "_template/_Note Template.md",
     "_template/Tool Template.md",
@@ -202,8 +214,6 @@
     "getting-started/intro.md",
     "basics/programmingLanguages/README.md",
     "basics/softwareEngineering/Regression Testing.md",
-    "basics/algorithmsanddatastructure/README.md",
-    "basics/algorithmsanddatastructure/1.-foundation.md",
     "basics/ComputerScience.md",
     "basics/operationSystem.md",
     "basics/softwareEngineering",
@@ -214,18 +224,11 @@
     "java.png",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "basics/programmingLanguages",
     "basics/openapi.md",
     "basics/network.md",
     "_template/_Sketchnote Template.md",
     "_template/Term Template.md",
     "_template/Table template.md",
-    "_template/Recipe Template.md",
-    "_template/Quote Template.md",
-    "_template",
-    "yunRepository2025",
-    "getting-started",
-    "basics/algorithmsanddatastructure",
-    "basics"
+    "_template/Recipe Template.md"
   ]
 }

@@ -1,0 +1,17 @@
+@font-face{
+	font-family: 'NanumBarunGothic';
+	src:url('../assets/fonts/NanumBarunGothic.ttf) format('truetype');
+}
+
+/*1. 한글 영어 글꼴 모두 설정*/
+body{
+	font-family: 'NanumBarunGothic' , 'Arial Rounded MT', sans-serif
+}
+
+/*코드 블록 전체 배경 및 글꼴 스타일*/
+pre, code{
+	font-family: 'NanumBarunGothic' , 'Arial Rounded MT', sans-serif
+	background: linear-gradient(#666566, #292c31);
+	color: #ffffff;
+	border-radius: 5% 5% 5% 5%;
+}
