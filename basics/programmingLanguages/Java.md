@@ -39,7 +39,7 @@ icon:
  }
 </pre>
 
-<pre>
+<pre >
 ListNode nodeTest = ListNode(1, ListNode(2));
 
 ListNode nodeTest = ListNode(1, ListNode(2, ListNode(3) ));
@@ -60,11 +60,12 @@ ListNode nodeTest = ListNode(1, ListNode(2, ListNode(3) ));
 		
 	if(resultList.size()%2 == 0) middleIdx = middleIdx +1;
 
-	int idx = 1;
-	ListNode returnNode = head.next;
+	int idx = 1;// head.val이  idx =1
+	ListNode agentNode = head.next;
+		idx = 
 	idx++;
 	do{
-		returnNode = returnNode.next ;
+		agentNode = agentNode.next ;
 		idx++;
 	}while(idx == middleIdx);
 	

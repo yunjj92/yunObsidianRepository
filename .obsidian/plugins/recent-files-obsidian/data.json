@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "_Note Template",
+      "path": "_template/_Note Template.md"
+    },
+    {
+      "basename": "Tool Template",
+      "path": "_template/Tool Template.md"
+    },
+    {
+      "basename": "Structure Template",
+      "path": "_template/Structure Template.md"
+    },
+    {
+      "basename": "Outline LinkedIn Template",
+      "path": "_template/Outline LinkedIn Template.md"
+    },
+    {
+      "basename": "Frontmatter Template",
+      "path": "_template/Frontmatter Template.md"
+    },
+    {
+      "basename": "Bullet Journal - Daily Log",
+      "path": "_template/Bullet Journal - Daily Log.md"
+    },
+    {
       "basename": "Java",
       "path": "basics/programmingLanguages/Java.md"
     },
     {
-      "basename": "Regression Testing",
-      "path": "basics/softwareEngineering/Regression Testing.md"
+      "basename": "README",
+      "path": "basics/softwareEngineering/README.md"
+    },
+    {
+      "basename": "intro",
+      "path": "getting-started/intro.md"
     },
     {
       "basename": "README",
-      "path": "basics/softwareEngineering/README.md"
+      "path": "basics/programmingLanguages/README.md"
+    },
+    {
+      "basename": "Regression Testing",
+      "path": "basics/softwareEngineering/Regression Testing.md"
     },
     {
       "basename": "README",
@@ -19,10 +51,6 @@
     {
       "basename": "1.-foundation",
       "path": "basics/algorithmsanddatastructure/1.-foundation.md"
-    },
-    {
-      "basename": "README",
-      "path": "basics/programmingLanguages/README.md"
     },
     {
       "basename": "ComputerScience",
@@ -47,14 +75,6 @@
     {
       "basename": "java",
       "path": "java.png"
-    },
-    {
-      "basename": "intro",
-      "path": "getting-started/intro.md"
-    },
-    {
-      "basename": "_Note Template",
-      "path": "_template/_Note Template.md"
     }
   ],
   "omittedPaths": [],
