@@ -40,12 +40,10 @@ icon:
 </pre>
 
 <pre >
-ListNode nodeTest = ListNode(1, ListNode(2));
+// e.g ) ListNode nodeTest = ListNode(1, ListNode(2));
 
-ListNode nodeTest = ListNode(1, ListNode(2, ListNode(3) ));
+// e.g) ListNode nodeTest = ListNode(1, ListNode(2, ListNode(3) ));
 
-//빼낼 때
-//어떻게 차례대로 빼는겨?
 //firstValue =  nodeTest.val, secondValue = nodeTest.next.val; , thirdValue = nodeText.next.next.val;
 
 	List resultList = new ArrayList();

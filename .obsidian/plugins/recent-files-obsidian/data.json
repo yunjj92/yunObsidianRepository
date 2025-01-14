@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Java",
+      "path": "basics/programmingLanguages/Java.md"
+    },
+    {
       "basename": "_Note Template",
       "path": "_template/_Note Template.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Bullet Journal - Daily Log",
       "path": "_template/Bullet Journal - Daily Log.md"
-    },
-    {
-      "basename": "Java",
-      "path": "basics/programmingLanguages/Java.md"
     },
     {
       "basename": "README",
