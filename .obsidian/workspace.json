@@ -4,16 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5adbbbc0623432b0",
+        "id": "e4bc5b56832b9b60",
         "type": "tabs",
         "children": [
           {
-            "id": "342c363fd0f2ce51",
+            "id": "17c83acb0663345d",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "basics/algorithmsanddatastructure/1.-foundation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.-foundation"
             }
           }
         ]
@@ -189,8 +194,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7d9bab80c54c4024",
+  "active": "17c83acb0663345d",
   "lastOpenFiles": [
+    "book.json",
+    "basics/programmingLanguages/README.md",
+    "basics/programmingLanguages/Java.md",
+    "basics/algorithmsanddatastructure/1.-foundation.md",
     "styles/website.css",
     "styles/새 텍스트 문서.txt",
     "styles",
@@ -202,8 +211,6 @@
     "assets/fonts",
     "assets",
     "basics/algorithmsanddatastructure/README.md",
-    "basics/algorithmsanddatastructure/1.-foundation.md",
-    "basics/programmingLanguages/Java.md",
     "_template/_Note Template.md",
     "_template/Tool Template.md",
     "_template/Structure Template.md",
@@ -212,11 +219,9 @@
     "_template/Bullet Journal - Daily Log.md",
     "basics/softwareEngineering/README.md",
     "getting-started/intro.md",
-    "basics/programmingLanguages/README.md",
     "basics/softwareEngineering/Regression Testing.md",
     "basics/ComputerScience.md",
     "basics/operationSystem.md",
-    "basics/softwareEngineering",
     "basics/무제 파일.md",
     "README.md",
     "SUMMARY.md",
