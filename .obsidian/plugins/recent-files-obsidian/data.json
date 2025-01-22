@@ -5,6 +5,18 @@
       "path": "basics/algorithmsanddatastructure/1.-foundation.md"
     },
     {
+      "basename": "Regression Testing",
+      "path": "basics/softwareEngineering/Regression Testing.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "SUMMARY",
+      "path": "SUMMARY.md"
+    },
+    {
       "basename": "README",
       "path": "basics/programmingLanguages/README.md"
     },
@@ -49,24 +61,12 @@
       "path": "getting-started/intro.md"
     },
     {
-      "basename": "Regression Testing",
-      "path": "basics/softwareEngineering/Regression Testing.md"
-    },
-    {
       "basename": "ComputerScience",
       "path": "basics/ComputerScience.md"
     },
     {
       "basename": "operationSystem",
       "path": "basics/operationSystem.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "SUMMARY",
-      "path": "SUMMARY.md"
     },
     {
       "basename": "list",
