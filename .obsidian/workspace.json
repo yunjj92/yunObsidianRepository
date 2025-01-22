@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e4bc5b56832b9b60",
+        "id": "8c3ecf7c24c1edc9",
         "type": "tabs",
         "children": [
           {
-            "id": "17c83acb0663345d",
+            "id": "7720580e19444fce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "basics/algorithmsanddatastructure/1.-foundation.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1.-foundation"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -194,12 +194,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17c83acb0663345d",
+  "active": "ff6be3c9628f8943",
   "lastOpenFiles": [
+    "basics/algorithmsanddatastructure/1.-foundation.md",
     "basics/softwareEngineering/Regression Testing.md",
     "README.md",
     "SUMMARY.md",
-    "basics/algorithmsanddatastructure/1.-foundation.md",
     "book.json~",
     "package.json~",
     "package.json",
