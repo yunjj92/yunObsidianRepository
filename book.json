@@ -1,6 +1,12 @@
 {
-  "styles" : {
-    "website" : "styles/website.css"
-  }
+  "language": "ko",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+  ],
+  "pluginsConfig": {},
+  "styles" : {}
 
 }
