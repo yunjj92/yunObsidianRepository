@@ -4,21 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c3ecf7c24c1edc9",
+        "id": "15bdea13d74544bc",
         "type": "tabs",
         "children": [
           {
-            "id": "7720580e19444fce",
+            "id": "94c4c845cbd9bc9b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -194,25 +189,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff6be3c9628f8943",
+  "active": "94c4c845cbd9bc9b",
   "lastOpenFiles": [
-    "basics/algorithmsanddatastructure/1.-foundation.md",
-    "basics/softwareEngineering/Regression Testing.md",
-    "README.md",
     "SUMMARY.md",
+    "README.md",
+    "basics/githubPage/GETTING-STARTED.md",
+    "basics/githubPage/README.md",
+    "getting-started/list.md",
+    "getting-started/intro.md",
+    "java.png",
+    "basics/programmingLanguages/Java.md",
+    "basics/algorithmsanddatastructure/1.-foundation.md",
+    "basics/algorithmsanddatastructure/README.md",
+    "basics/githubPage",
+    "basics/softwareEngineering/Regression Testing.md",
     "book.json~",
     "package.json~",
     "package.json",
     "_book",
     "book.json",
     "basics/programmingLanguages/README.md",
-    "basics/programmingLanguages/Java.md",
     "styles/website.css",
     "styles/새 텍스트 문서.txt",
     "styles",
     "새 폴더",
-    "assets/fonts/NanumBarunGothicLight.ttf",
-    "basics/algorithmsanddatastructure/README.md",
     "_template/_Note Template.md",
     "_template/Tool Template.md",
     "_template/Structure Template.md",
@@ -220,19 +220,14 @@
     "_template/Frontmatter Template.md",
     "_template/Bullet Journal - Daily Log.md",
     "basics/softwareEngineering/README.md",
-    "getting-started/intro.md",
     "basics/ComputerScience.md",
     "basics/operationSystem.md",
     "basics/무제 파일.md",
-    "getting-started/list.md",
-    "java.png",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "basics/openapi.md",
     "basics/network.md",
     "_template/_Sketchnote Template.md",
-    "_template/Term Template.md",
-    "_template/Table template.md",
-    "_template/Recipe Template.md"
+    "_template/Term Template.md"
   ]
 }
