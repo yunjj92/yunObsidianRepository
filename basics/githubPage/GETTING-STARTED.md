@@ -77,6 +77,15 @@ nav {
   : to include an extra computer program or other product with something that you sell: 
   e.g) The system came bundled with a word processor, spreadsheet, and graphics program.
 ```
+
+- '@import' is  deprecated 
+		2019년에 Sass module system을 발표했고, 이 때 @use @forward를 @import 대신하기 위해 추가했다. 이는 스타일시트를 더 유지가능한 형태로 관리하고 에러가 덜 발생하는 목적으로 도입되었다. @import는 공식적으로 Dart Sass 1.80.0 부터 쓰이지 않는다. 
+		@import 사용에 대해 deprecation 경고가 발생할 때를 대비해서 최근에 '--silence-deprecation' 명령어 옵션을 추가했다. 만약에 @import를 사용하지 않고 새로운 모듈 시스템으로 옮길 예정이라면, 아래 명령어를 수행하면 된다. 
+	```
+	$ sass-migrator module --migrate-deps <path/to/style.scss>
+	```
+	
+```
 ### 4) \_config.yml
 
 > [!NOTE] Title
@@ -162,5 +171,9 @@ nav {
  : a process in which someone changes to a new relition or belief
 * excerpt: a short part taken from a speech, book, film, etc.;
  e.g) An excerpt from her new thriller will appear in this weekend's magazine.
- * 
+ * sooner rahter than later:  without too much delay
+ * backsliding: to go back to doing sth bad when you have been doing something good, especially to stop working hard or to fail to do something that you had agreed to do
+	 e.g) My diet was going well, but I've been backsliding a little recently 
+* Migrate off of : to move away from a place or region
+		
 ```
