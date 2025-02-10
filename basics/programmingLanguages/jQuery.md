@@ -55,6 +55,13 @@ $(function() {
 >  * propagate
 > 	 : to produce a new plant using a parent plant
 >   e.g) Most house plants can be propated from stem cuttings
+>   *  opaque [oʊˈpeɪk]
+> 	  : preventing light from travelling through, and therefore not transparent of translucent
+> 	  e.g) opaque glass
+> 	 : difficult to understand
+>  * 
+  
+
 	  
   
   

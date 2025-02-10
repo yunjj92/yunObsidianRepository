@@ -84,8 +84,7 @@ nav {
 	```
 	$ sass-migrator module --migrate-deps <path/to/style.scss>
 	```
-	
-```
+
 ### 4) \_config.yml
 
 > [!NOTE] Title
@@ -157,9 +156,16 @@ nav {
   expression
 {% endfor %}
 ```
+
+## 6) Node.js
+
+ 
+
+
 출처: https://shopify.dev/docs/api/liquid/tags/for
 
 ```
+[모르는 단어는 여기를 참고해주십쇼! ]
  * a storage medium(storage media) is a physical device that receives and retains electronic data for applications and users and makes the data available for retrieval
  e.g) USB Stick, DVD, 
  * Network latency is the delay in network communication. It shows the time that data takes to transfer across the network. 
@@ -177,3 +183,4 @@ nav {
 * Migrate off of : to move away from a place or region
 		
 ```
+
