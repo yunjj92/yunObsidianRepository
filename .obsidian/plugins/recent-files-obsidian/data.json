@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Java",
+      "path": "basics/programmingLanguages/Java.md"
+    },
+    {
       "basename": "jQuery",
       "path": "basics/programmingLanguages/jQuery.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "GETTING-STARTED",
       "path": "basics/githubPage/GETTING-STARTED.md"
-    },
-    {
-      "basename": "Java",
-      "path": "basics/programmingLanguages/Java.md"
     },
     {
       "basename": "README",
