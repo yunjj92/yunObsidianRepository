@@ -74,6 +74,10 @@ icon:
 ```
 
 ### Flux
+
+> [!NOTE] Class Flux\<T\>
+> 
+
 	
 - Flux.fromIterable
 
@@ -142,6 +146,9 @@ class PubSub{
 - unbind(unbound) : <> bind
 - serve(HELP ACHIEVE) : to hlep achieve sth or to be useful as sth
 	- e.g) Nothing serves to explain the violent fighting we have seen recently
+- emit: to send out a beamk noise, smell, or gas:
+	- e.g) The machine emits a high-pitched sound when you press the button
+- flatten: to become level and thinner or to cause sth oto become level and thinner
 
 
 ## References

@@ -5,12 +5,12 @@
       "path": "basics/programmingLanguages/Java.md"
     },
     {
-      "basename": "jQuery",
-      "path": "basics/programmingLanguages/jQuery.md"
-    },
-    {
       "basename": "Javascript",
       "path": "basics/programmingLanguages/Javascript.md"
+    },
+    {
+      "basename": "jQuery",
+      "path": "basics/programmingLanguages/jQuery.md"
     },
     {
       "basename": "GETTING-STARTED",
