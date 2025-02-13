@@ -126,6 +126,54 @@ class PubSub{
 	- Request [`Publisher`](https://www.reactive-streams.org/reactive-streams-1.0.3-javadoc/org/reactivestreams/Publisher.html "interface in org.reactivestreams") to start streaming data.
 	- 몇 번이고 호출해도 되고, 호출 할 때마다 새로운 Subscription을 시작함. 각각의 Subscription은 오직 한 개의 Subscriber만을 위해 작동. 1개의 Subscriber는 반듸시 한 번에 한 개의 Publisher만 구독해야 함. 만약 Publisher가 구독시도를 거절하거나 그렇지 않고, 실패했다면, Subscriber.onError method를 통해 신호를 줄 것임
 
+## JSONObject 
+
+-  fromObject : 
+```
+public static JSONObject fromObject(Object object) {  
+    return fromObject(object, new JsonConfig());  
+}
+
+JsonBeanProcessor processor = jsonConfig.findJsonBeanProcesor(bean.getClass());
+
+private static JSONObject _fromString(String str, JsonConfig jsonConfig) {  
+    if (str != null && !"null".equals(str)) {  
+        return _fromJSONTokener(new JSONTokener(str), jsonConfig);  
+    } else {  
+        fireObjectStartEvent(jsonConfig);  
+        fireObjectEndEvent(jsonConfig);  
+        return new JSONObject(true);  
+    }
+}
+
+
+
+```
+- 설명
+	- 1. param으로 받은 object가 어떤 클래스인지 유형별로 구분한다. 
+	- 2. 아래 분류에 따라 해당 객체가 어떤 클래스의 객체인지에 따라 parse하는 method를 달리 호출
+	- 3. 각 method에선 tokener로  나눠서 ch로 return
+	- 4. ch를 StringBuffer에 붙여서 key, value의 형태로 JsonObject에 차례차례 쌓음
+	- 5. JsonObject return
+- Interface JsonBeanProcessor > processBean
+	- parameter: bean, 현재 설정 환경
+	-  return: input으로 들어온 빈을 나타내는 JSONObject를 리턴
+- param인 Object 유형이 다음과 같은 케이스일 때
+	- JSONObject 
+	- DynaBean
+	- JSONTokener
+	- JSONString 
+	- String
+	- Map
+	- Number도 아니고, Boolean도 아니고, String도 아니면
+		- 배열일 때는 에러 표시
+		- 그 외에는 
+
+### JSONArray
+- 설명
+	- JSONArray jsonArray = new JSONArray();
+	- Iterator elements = array.iterator();
+![[Pasted image 20250213175830.png]]
 
 ---
 ## Questions
