@@ -173,13 +173,60 @@ private static JSONObject _fromString(String str, JsonConfig jsonConfig) {
 - 설명
 	- JSONArray jsonArray = new JSONArray();
 	- Iterator elements = array.iterator();
+	-  
 ![[Pasted image 20250213175830.png]]
+
+### ResponseEntity\<T\>
+-  HttpEntity 의 확장클래스이고, RestTemplate에서도 사용되고, @Controller 메서드에서도 사용된다.
+- RestTemplate에서 사용할 때
+```
+ResponseEntity<String> entity = template.getForEntity("https://example.com", String.class);
+String body = entity.getBody();
+MediaType contentType = entity.getHeaders().getContentType();
+HttpStatus statusCode = entity.getStatusCode();
+```
+
+- @Controller 메서드에서 리턴하는 값으로써, Spring MVC 패턴에서 사용될 때
+```
+@RequestMapping("/handle)
+public ReponseEntity<String> handle(){
+	URL location = ...;
+	HttpHeaders responseHeader = new HttpHeaders();
+	responseHeaders.setLocation(location);
+	responseHeaders.set("MyResponseHeader", "MyValue");
+	return new ResponseEntity<String>("Hello World", responseHeaders, HttpStatus.CREATED);
+
+}
+```
+- ResponseEntity(T body, MultiValueMap<String, String> headers, HttpStatusCode statusCode)
+
+### HttpHeaders
+- Http 요청과 응답 헤더을 표시하는 데이터 구조로, 문자열로 된 헤더명과 여러 값이 있는 리스트 한 개를 매핑한다. 
+
+### @RequestBody
+- 설명: 이 어노테이션을 사용함으로써 request body를 읽을 수 있고, HttpMessageReader를 통해서 
+객체로 풀어낼 수도 있다. SpringMVC과 달리 WebFlux에서는 이 어노테이션 선언이 reactive types 및 완전한 non-blocking reading을 지원하여 client-to-server 스트리밍을 가능하게 한다. 
+	-  여기서의 'Body'는 Http 요청 본문을 의미한다. 따라서 JSON, XML, 혹은 기타 JAVA 객체가 아닌 다른 형태의 데이터를 받을 때는 무조건 @RequestBody로 받아야 한다. 
+	- 그러면 @RequestParam 은 뭐냐! url 쿼리로 /somePath?strSeq=value로 즉 url parameter로 받을 때 사용합니다.
+	- 그러면 @ResponseBody는 뭐냐! 말 그대로 리턴할 때 즉, 응답 목적으로 HttpBody를 리턴해줘야 할 때 사용합니다. 아래와 같이 사용합니다. 
+```
+public @ReponseBody ReponseEntity\<T\> blahblah(Object parma)){
+
+
+}
+```
+
+
+
 
 ---
 ## Questions
 
 <!-- What remains for you to consider? --> 
-- 
+- Streaming?
+	-  Streaming Processing: 이 프로세스는 실시간 분석을 가능하게 하고, 데이터가 생성될 때 데이터가 전송될 수 있도록 작동한다. 
+	-  Event Time vs Processing Time: 이벤트 타임은 해당 이벤트가 실제로 현실세계에서 발생하는 그 순간을 의미한다. 이벤트가 어떤 순서대로 발생했는지 에 대한 시나리오를 구성하는데 굉장히 중요하고, 이 지점은 데이터가 정확히 처리되어서 실제 발생 순서를 반영할 수 있게 만들어준다. 반면에 Processing time은 시스템이 이벤트 처리를 언제하는지에 대한 시점이고, 이건 실제 발생과 궤를 같이 하지는 않는다. 
+	-  
 
 
 ## Terms
@@ -197,7 +244,12 @@ private static JSONObject _fromString(String str, JsonConfig jsonConfig) {
 - emit: to send out a beamk noise, smell, or gas:
 	- e.g) The machine emits a high-pitched sound when you press the button
 - flatten: to become level and thinner or to cause sth oto become level and thinner
-
+- stream: to send or receive sound or video directly over the internet as a continuous flow: on Youtuve, millions of videos are streamed every day. 
+- siginify: to be a sign of sth, to mean
+	- e.g) Nobody really knows what the marks on the ancient stones signify
+	- e.g) The number 30 on a road sign signifies that the speed limit is 30 miles an hour.
+- time window: a fixed interval of time when the data stream is processed fo rquery and mining process
+- mining process: 업무 프로세스 데이터를 분석하여 개선점을 찾는 기법(로그 수짐, 프로세스 모델 생성, 성능 분석 및 개선)
 
 ## References
 <!-- Links to pages not referenced in the content -->
