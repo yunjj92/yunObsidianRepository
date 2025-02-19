@@ -11,9 +11,14 @@
             "id": "a22e31c56f5f7716",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "dailyReport/2025/02/Daily Report in February.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily Report in February"
             }
           }
         ]
@@ -193,6 +198,11 @@
   "active": "a22e31c56f5f7716",
   "lastOpenFiles": [
     "basics/programmingLanguages/Java.md",
+    "dailyReport/2025/02/Daily Report in February.md",
+    "dailyReport/2025/02",
+    "무제.md",
+    "dailyReport/2025",
+    "dailyReport",
     "Pasted image 20250213175830.png",
     "basics/programmingLanguages/Javascript.md",
     "basics/programmingLanguages/jQuery.md",
@@ -214,9 +224,6 @@
     "_book",
     "book.json",
     "styles/website.css",
-    "styles/새 텍스트 문서.txt",
-    "styles",
-    "새 폴더",
     "_template/_Note Template.md",
     "_template/Tool Template.md",
     "_template/Structure Template.md",
@@ -229,7 +236,6 @@
     "basics/무제 파일.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "basics/openapi.md",
-    "basics/network.md"
+    "basics/openapi.md"
   ]
 }
